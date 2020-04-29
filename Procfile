@@ -1,1 +1,1 @@
-bot: python3 main.py
+botv-baku: python3 main.py
