@@ -1,0 +1,18 @@
+BARS = [
+    {'name': 'КАФЕ БАКУНИН',
+     'address': '2-я Советская, 25А',
+     'opening_hours': '13-22',
+     'phone': '+7(812)986-43-53'},
+    {'name': 'ROCKETS & BISHOPS',
+     'address': 'Гороховая, 26',
+     'opening_hours': '',
+     'phone': '+7(812)985-08-14'},
+    {'name': 'KIOSK',
+     'address': 'Маяковского, 23',
+     'opening_hours': '',
+     'phone': '+7(812)982-92-36'},
+    {'name': 'STEREO pub & pizza',
+     'address': 'Пискаревский проспект, 1',
+     'opening_hours': '',
+     'phone': '+7(812)982-49-02'},
+]
