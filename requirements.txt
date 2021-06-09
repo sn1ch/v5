@@ -13,7 +13,7 @@ google-auth==1.13.1
 gspread==3.4.2
 idna==2.9
 multidict==4.7.5
-pip==19.0.3
+pip==19.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 python-dotenv==0.13.0
